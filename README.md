@@ -1,9 +1,4 @@
-# Collective Autonomous Vehicles
-
-Main Authors:
-- [Antonio Bucchiarone](mailto:bucchiarone@fbk.eu)
-- [Annalisa Congiu](mailto:annalisa.congiu@studenti.unitn.it)
-
+# Self-Organization of Distributed Autonomous Vehicles Fleets
 
 The focus of this project is to realize a framework to model, simulate and analyze dynamic and self-organized mobility systems through Multi-Agent Systems (MAS), in which heterogeneous ensembles/groups (composed by AV and travellers) are created and managed. The aim is to provide a solution able to handle the effects of multi-hop travels, in other words those in which passengers would commute from one car to another to reach farther destinations, thus introducing cooperative behaviours among AVs. Such behaviour could also help when some AVs have to face unexpected situations, such as breakdowns or heavy traffic and congestion, while having passengers on board, in order to alleviate the inconvenience that such problems imply for travelling time of travellers and quality of service.
 
@@ -23,8 +18,8 @@ In each directory you can find the following:
  * models: scripts to create a map that can be used in the system from raw GIS data,
     scripts for the centralised and the decentralised simulations.
 
-## References
-* 
+## Contacts
+For any information, interested researchers can contact my by writing an email to bucchiarone@fbk.eu.
 
 
 
