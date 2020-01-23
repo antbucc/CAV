@@ -4,7 +4,7 @@ The focus of this project is to realize a framework to model, simulate and analy
 
 This repository contains a GAMA platform project for the simulation of a system of ridesharing with autonomous vehicles (AV). There are scripts for a centralised and a decentralised version of control.
 
-For a complete understanding we suggest to consult the documents, containing all the implemented algorithms, available at the following link: https://github.com/antbucc/CAV/blob/master/ACS_Algorithms.pdf
+For a complete understanding we suggest to consult the documents, containing all the implemented algorithms, available at the following link: https://github.com/antbucc/SEAMS2020/blob/master/ACS_Algorithms.pdf
 
 ## Installation
 
